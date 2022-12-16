@@ -7,15 +7,16 @@ This is my GitHub organization for all finished exams, tasks and courses I compl
 #### Høyskolen Kristiania - Programming
 
 ##### Third Semester
-- [PGR209, Backendprogrammering, EKSAMEN]() (B)
+- [PGR209, Backendprogrammering, EKSAMEN]() (A)
 - [PG3302, Software Design, EKSAMEN]() (unknown)
-- [PG6301, Webutvikling og API-design, EKSAMEN]() (A)
+- [PG6301, Webutvikling og API-design, EKSAMEN]() (D)
 
 
 ##### Second Semester
-- [PG4200, Algoritmer og datastrukturer, EKSAMEN]() (Approved)
-- [PGR112, Objektorientert programmering EKSAMEN]() (Approved)
-- [TK2100, Informasjonssikkerhet, EKSAMEN]() (Approved)
+- [PG4200, Algoritmer og datastrukturer, EKSAMEN](https://github.com/Errons1School/pg4200-exam) (Approved)
+- [PGR112, Objektorientert programmering EKSAMEN](https://github.com/Errons1School/pgr112-exam) (Approved)
+- [TK2100, Informasjonssikkerhet, EKSAMEN](https://github.com/Errons1School/tk2100-exam) (Approved)
+  - [TK2100, ARBEIDSKRAV](https://github.com/Errons1School/tk2100-requirement-1) 
 
 
 ##### First Semester
