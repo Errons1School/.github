@@ -8,8 +8,11 @@ This is my GitHub organization for all finished exams, tasks and courses I compl
 
 ##### Third Semester
 - [PGR209, Backendprogrammering, EKSAMEN]() (A)
+  - [PGR209, ARBEIDSKRAV 1](https://github.com/Errons1School/pgr209-requirement-1)
+  - [PGR209, ARBEIDSKRAV 2](https://github.com/Errons1School/pgr209-requirement-2)
+  - [PGR209, ARBEIDSKRAV 3](https://github.com/Errons1School/pgr203-requirement-3)
 - [PG3302, Software Design, EKSAMEN]() (unknown)
-- [PG6301, Webutvikling og API-design, EKSAMEN]() (D)
+- [PG6301, Webutvikling og API-design, EKSAMEN](https://github.com/Errons1School/pg6301-exam) (D)
 
 
 ##### Second Semester
