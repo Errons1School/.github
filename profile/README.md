@@ -14,7 +14,8 @@ This is my GitHub organization for all finished exams, tasks and courses I compl
 - [PRO202, Smidig prosjekt, EKSAMEN Server](https://github.com/Errons1School/pro202_server-exam) (A)
 - [PRO202, Smidig prosjekt, EKSAMEN Client](https://github.com/Errons1School/pro202_client-exam) ^^^
 - [PG3401, Programmering i C for Linux, EKSAMEN](https://github.com/Errons1School/pg3401-exam) (A)
-- [PG5501, Embedded systems, EKSAMEN](https://github.com/Errons1School/pg5501-exam) (C)
+- [PG5501, Embedded systems, KONTINUASJONSEKSAMEN](https://github.com/Errons1School/pg5501-exam-cont) (A)
+- ~~[PG5501, Embedded systems, EKSAMEN](https://github.com/Errons1School/pg5501-exam) (C)~~
     - [PG5501, Embedded systems, ARBEIDSKRAV 1](https://github.com/Errons1School/pg5501-requirement-1)
     - [PG5501, Embedded systems, ARBEIDSKRAV 2](https://github.com/Errons1School/pg5501-requirement-2)
 
