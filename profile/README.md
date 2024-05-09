@@ -6,7 +6,11 @@ This is my GitHub organization for all finished exams, tasks and courses I compl
 
 #### Høyskolen Kristiania - Programming
 
-##### Fourth semester Semester
+##### Fifth Semester
+- [PGR301, DevOps, EKSAMEN](https://github.com/Errons1School/PGR301_exam) (A)
+- [PRO202, Microservices, EKSAMEN](https://github.com/Errons1School/PG3402_exam) (A)
+
+##### Fourth Semester
 - [PRO202, Smidig prosjekt, EKSAMEN Server](https://github.com/Errons1School/pro202_server-exam) (A)
 - [PRO202, Smidig prosjekt, EKSAMEN Client](https://github.com/Errons1School/pro202_client-exam) ^^^
 - [PG3401, Programmering i C for Linux, EKSAMEN](https://github.com/Errons1School/pg3401-exam) (A)
